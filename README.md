@@ -57,7 +57,7 @@
 * 我所在学科，存在哪些文献管理独特技巧或者文献二次评价秘诀
 * [mendeley](http://mendeley.com)、[citeulike](http://www.citeulike.org/)或者[Zotero](http://www.zotero.org/)，哪个更适合自己学科使用？
 * 在[mendeley](http://mendeley.com)上，我所在学科，有哪些值得关注的小组？或者，我所在学科，有哪些世界级的文献阅读分享小组网站？国内豆瓣上，有哪些值得关注的学科兴趣小组？其中，读书很勤奋、很用功的豆瓣达人各自是哪些？
-* 如何使用EndNote](http://www.endnote.com/) 的**Export Traveling Library**或者其他文献管理工具类似功能，从参考文献下载、参考文献阅读笔记、最终论文写作的所有历程都记录下来，最终共享给课题组或者整个互联网？
+* 如何使用[EndNote](http://www.endnote.com/) 的**Export Traveling Library**或者其他文献管理工具类似功能，从参考文献下载、参考文献阅读笔记、最终论文写作的所有历程都记录下来，最终共享给课题组或者整个互联网？
 
 ##Q5: 如何评价文献质量
 
