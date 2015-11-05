@@ -50,6 +50,7 @@
 * [COS](http://fundingopps.cos.com/about/fundingopps.shtml)：我所在学科，近些年基金申请反映出什么规律或者趋势？同时，有哪些基金对开放获取、开放科学的支持力度更大？
 * 如何使用[Google Scholar](http://scholar.google.com/)
 与[MAS](http://academic.research.microsoft.com/)导出、管理参考文献？
+* [AMiner](https://aminer.org)在科研网络中挖掘深层知识，哪些大牛相互间有联系，红人们的师徒关系，大牛们关注领域的变化趋势。
 
 
 ##Q4: 如何高效管理文献
