@@ -20,7 +20,7 @@
 
 联系作者
 
-阳志平：
+阳志平：哈哈哈哈，这个人居然叫阳志平，莫不是当年的龙骑士？？？
 
 * [个人网站](http://www.yangzhiping.com)
 * [微博](http://weibo.com/ouyangzhiping)
